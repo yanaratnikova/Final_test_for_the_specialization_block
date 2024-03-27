@@ -24,7 +24,7 @@ mysql  Ver 8.0.36-0ubuntu0.22.04.1 for Linux on x86_64 ((Ubuntu))
 ```
 История команд:
 yana@Ra:~$ history
-
+```
     1  sudo apt install terminator
 
     2  sudo dpkg --configure -a
@@ -89,3 +89,14 @@ yana@Ra:~$ history
 
    32  history
 
+```
+ - Установить и удалить deb-пакет mc:
+ ```bash
+ sudo apt-get install wget
+
+ wget http://archive.ubuntu.com/ubuntu/pool/universe/m/mc/mc_4.8.24-2ubuntu1_amd64.
+ 
+sudo dpkg -i mc_4.8.27-1_amd64.deb
+
+mc
+ ```
