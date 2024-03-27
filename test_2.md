@@ -99,4 +99,7 @@ yana@Ra:~$ history
 sudo dpkg -i mc_4.8.27-1_amd64.deb
 
 mc
+
+sudo dpkg -r mc
  ```
+
