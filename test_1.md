@@ -49,3 +49,12 @@ mv file3 Human_Friends
 ls
 ```
 результат: Human_Friends  Pack_animals  Pets
+9. Создать новую директорию и переместить туда файл "Human Friends":
+```bash
+mkdir new_folder
+
+mv Human_Friends new_folder
+ls
+```
+Результат:
+new_folder  Pack_animals  Pets
