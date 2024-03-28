@@ -102,4 +102,21 @@ mc
 
 sudo dpkg -r mc
  ```
+- История комманд:
+```bash
+  39  apt-get install wget
 
+   40  sudo apt-get install wget
+
+   41  wget http://archive.ubuntu.com/ubuntu/pool/universe/m/mc/mc_4.8.24-2ubuntu1_amd64.deb
+
+   42  sudo dpkg -i mc_4.8.27-1_amd64.deb
+
+   43  mc
+
+   44  sudo dpkg -r mc
+
+   45  history
+
+
+```
